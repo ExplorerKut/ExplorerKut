@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kutbuddin Ambawala
 - 👀 I’m interested in Data Science, Cloud Computing
 - 🌱 I’m currently learning Cloud Computing
-- 💞️ I’m looking to collaborate on any projects related to ML, Data Science, Cloud 
+- 💞️ I’m looking to collaborate on any projects related to Big Data, Cloud, DevOps
 - 📫 How to reach me
     - https://www.linkedin.com/in/kutbuddin-amba/
     - kutbuddin.ambawala@gmail.com
