@@ -14,6 +14,11 @@ My main interest lies in creating functional Backends with unique features, late
 <a href="https://www.twitter.com/KutbuddinAmba" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/KutbuddinAmba?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
+<br>
+### Resume
+<a href="https://drive.google.com/file/d/119EVU65QkGrPH0y4i3mw7d4Z60yrJrhn/view?usp=sharing" target="_blank" rel="noreferrer">
+<img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-cv-recruitment-agency-flaticons-lineal-color-flat-icons-3.png"/>
+</a>
 
 ### Skills
 
